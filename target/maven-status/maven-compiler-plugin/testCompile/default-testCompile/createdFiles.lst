@@ -1,0 +1,5 @@
+model/IndexTest.class
+model/TableTest.class
+service/SearcherTest.class
+utils/JsonEntryLoaderTest.class
+model/JsonEntryTest.class

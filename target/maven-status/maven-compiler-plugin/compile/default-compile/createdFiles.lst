@@ -1,0 +1,11 @@
+service/Searcher.class
+model/Index.class
+model/Table.class
+model/Entry.class
+service/SearchResult$Secondary.class
+service/SearchResult.class
+utils/JsonEntryLoader.class
+model/JsonEntry.class
+utils/EntryLoader.class
+cli/Console.class
+config/Config.class
